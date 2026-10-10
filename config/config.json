@@ -1,0 +1,7 @@
+{
+  "subnet_base": "auto",
+  "start_host": 1,
+  "end_host": 254,
+  "scan_interval_seconds": 30,
+  "discord_webhook_url": ""
+}
